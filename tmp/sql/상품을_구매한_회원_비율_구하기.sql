@@ -1,0 +1,21 @@
+
+WITH cte as (
+    SELECT DISTINCT
+      USER_INFO.USER_ID
+    , (select count(*) from USER_INFO WHERE YEAR(JOINED) = 2021) as total
+    , YEAR(SALES_DATE) as YEAR
+    , MONTH(SALES_DATE) as MONTH 
+    FROM USER_INFO
+    INNER JOIN  ONLINE_SALE
+        ON ONLINE_SALE.USER_ID = USER_INFO.USER_ID
+    WHERE YEAR(JOINED) = 2021
+    AND YEAR(SALES_DATE) = 2022
+)
+select 
+  YEAR
+, MONTH
+, count(*) as PURCHASED_USERS
+, ROUND((count(*)/total),1) as PUCHASED_RATIO 
+from cte 
+group by YEAR, MONTH
+ORDER BY YEAR, MONTH
