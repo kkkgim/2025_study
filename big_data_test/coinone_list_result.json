@@ -1,0 +1,6799 @@
+{
+    "result": "success",
+    "error_code": "0",
+    "server_time": 1737370181191,
+    "markets": [
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TNSR",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "STRK",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "APP",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "STG",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ALGO",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ANKR",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SCR",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "APT",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DODO",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AI",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WLD",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GLM",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NEST",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZRC",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FIS",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DVI",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "VIC",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SCA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "APE",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BAT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BLUR",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PIXEL",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PRIME",
+        "price_unit": "100.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ASTR",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BAND",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KSM",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "EGG",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PENDLE",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CAKE",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FIL",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PYTH",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KSP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BAL",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "QTCON",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WEMIX",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MANA",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MINA",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FRONT",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "XLM",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "IOTA",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BTT",
+        "price_unit": "0.0001",
+        "qty_unit": "0.0001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "100000000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.0001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HPO",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "G",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "JTO",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CVX",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CFG",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WAVES",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "STORJ",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ONG",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ALEX",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ARB",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BTC",
+        "price_unit": "10000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100000.0",
+          "1000000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SEI",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TWT",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SHIB",
+        "price_unit": "0.0001",
+        "qty_unit": "0.0001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "100000000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.0001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BTG",
+        "price_unit": "100.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "IOTX",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NEAR",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "STPT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SUI",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AI16Z",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZRX",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BCH",
+        "price_unit": "500.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BSV",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "JST",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SUN",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "POL",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MAVIA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "QTUM",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GMT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CEP",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HOT",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LINK",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LWA",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZRO",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "STX",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "IOST",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "VOLT",
+        "price_unit": "0.0001",
+        "qty_unit": "0.0001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "100000000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.0001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AAVE",
+        "price_unit": "5000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10000.0",
+          "100000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "REZ",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZETA",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MLK",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SXP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SUNDOG",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LIT",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WOO",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ICP",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ATH",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MASA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MASK",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KAIA",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GAME2",
+        "price_unit": "0.005",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.01",
+          "0.1"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LZM",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MYRO",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ICX",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DEEP",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ADA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BAAS",
+        "price_unit": "0.001",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.01",
+          "0.1"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ISK",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WIKEN",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ACH",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "JUP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TIA",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BRETT",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BEL",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ONT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SPURS",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "W",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TOKAMAK",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "T",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CFX",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ASM",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BONK",
+        "price_unit": "0.0001",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZTX",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BIGTIME",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DIA",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LQTY",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "OAS",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MAPO",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SIX",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ENS",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GRT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TAIKO",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ALPHA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PCI",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "EVERY",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BOME",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PAXG",
+        "price_unit": "10000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100000.0",
+          "1000000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HBAR",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DOGE",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GAS",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ENA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ONDO",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PEPE",
+        "price_unit": "0.0001",
+        "qty_unit": "0.0001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "100000000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.0001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WBTC",
+        "price_unit": "10000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100000.0",
+          "1000000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CLBK",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SKLAY",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AUCTION",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "UMA",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "XRP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PUFFER",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NTRN",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KAVA",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CTSI",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CHZ",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SAND",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ATOM",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CATI",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ARKM",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "IO",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SKY",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "IQ",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FORTH",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CLV",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SKL",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "XEC",
+        "price_unit": "0.0001",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CELO",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PROM",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HVH",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZIL",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "1INCH",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "UOS",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AXS",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MEME",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WAXL",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MON",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "EOS",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FNCY",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DAPP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BORA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "RUNE",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AERO",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NEIRO",
+        "price_unit": "0.0001",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "UNI",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NPT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MNT",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MANTA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CKB",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "XTZ",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ERN",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KNC",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WEN",
+        "price_unit": "0.0001",
+        "qty_unit": "0.0001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "100000000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.0001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MAV",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PNUT",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "EVER",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PHA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CETUS",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TON",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PENGU",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FLOW",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AVAX",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FTM",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZKL",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TRUMP",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NEXT",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DOT",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SLN",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZEUS",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ZK",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HFT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "COMP",
+        "price_unit": "1000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10000.0",
+          "100000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SPA",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MTL",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "VET",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NEON",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MOVE",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ALT",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "UXLINK",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BNT",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DAO",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "OGN",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ARPA",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GRND",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SOL",
+        "price_unit": "100.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BNB",
+        "price_unit": "1000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10000.0",
+          "100000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FET",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ETC",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DYDX",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SEILOR",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ME",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ETH",
+        "price_unit": "5000.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10000.0",
+          "100000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FLUX",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NEO",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CLOUD",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PRCL",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SUSHI",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NAVX",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "COS",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DAD",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MBX",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "PIB",
+        "price_unit": "0.001",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.01",
+          "0.1"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AEVO",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MBL",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CYBER",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SNX",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GALA",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "SNT",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HUNT",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BLAST",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "FXS",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "OP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CRO",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "USDC",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CRV",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CRU",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "INJ",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LISTA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "RPL",
+        "price_unit": "100.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DMAIL",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "EIGEN",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CORE",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "CBK",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KAI",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HIGH",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "RON",
+        "price_unit": "10.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "GRASS",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "USDT",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "IMX",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MEV",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "RENDER",
+        "price_unit": "100.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MEW",
+        "price_unit": "0.005",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.01",
+          "0.1"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ETHFI",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DATA",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "1000000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "OM",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ORDER",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "KAS",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MVC",
+        "price_unit": "0.05",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "BEAM",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AMO",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "WNCG",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ORBS",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "AMP",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ILV",
+        "price_unit": "500.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1000.0",
+          "10000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "EDU",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "MOCA",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LBL",
+        "price_unit": "0.01",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "0.1",
+          "1.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "ORCA",
+        "price_unit": "50.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "100.0",
+          "1000.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "DBR",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "HIFI",
+        "price_unit": "5.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NFT",
+        "price_unit": "0.0001",
+        "qty_unit": "0.0001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "100000000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.0001",
+        "order_book_units": [
+          "0.0",
+          "0.001",
+          "0.01"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "NFP",
+        "price_unit": "1.0",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "10.0",
+          "100.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "TRX",
+        "price_unit": "0.1",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      },
+      {
+        "quote_currency": "KRW",
+        "target_currency": "LBR",
+        "price_unit": "0.5",
+        "qty_unit": "0.00000001",
+        "max_order_amount": "1000000000.0",
+        "max_price": "10000000000.0",
+        "max_qty": "10000000000.0",
+        "min_order_amount": "5000.0",
+        "min_price": "0.0001",
+        "min_qty": "0.00000001",
+        "order_book_units": [
+          "0.0",
+          "1.0",
+          "10.0"
+        ],
+        "maintenance_status": 0,
+        "trade_status": 1,
+        "order_types": [
+          "limit",
+          "market",
+          "stop_limit"
+        ]
+      }
+    ]
+  }
