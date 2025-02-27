@@ -86,12 +86,9 @@ int main() {
     }
     // list는 배열이 아니고, 포인터 배열로써 각 배열 원소(list[i])가 new로 개별적으로 할당
     // delete[]가 아니라 delete로 하나씩 해제해야함
-
-
-    delete[] list;
-    // for(int i=0; i<animal_num; i++){
-    //     delete list[i];
-    // }
+    for(int i=0; i<animal_num; i++){
+        delete list[i];
+    }
 
     return 0;
 } 

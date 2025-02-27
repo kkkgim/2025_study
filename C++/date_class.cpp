@@ -6,12 +6,24 @@ class Date{
     int day_;
 
     public:
+    Date(int year, int month, int day){
+        year_=year;
+        month_=month;
+        day_=day;
+    };
+    Date() {
+        year_=2021;
+        month_=10;
+        day_=21;
+    };
     void SetDate(int year, int month, int day);
     void AddDay(int inc);
     void AddMonth(int inc);
     void AddYear(int inc);
 
-    void ShowDate();
+    void ShowDate(){
+        std::cout << year_ << "년 " <<  month_ << "월 " << day_ << "일" << std::endl;
+    };
 };
 
 bool IsLeapYear(int year) {
@@ -60,36 +72,15 @@ void Date::AddMonth(int inc){
 
 void Date::AddYear(int inc){ year_ += inc; }
 
-void Date::ShowDate() {
-    std::cout << year_ << "년 " <<  month_ << "월 " << day_ << "일" << std::endl;
-}
 
 int main(){
-    Date date;
-    date.SetDate(2023, 12, 30);
-    date.ShowDate();  // 2023년 12월 30일
-    date.AddDay(5);
-    date.ShowDate();  // 2024년 1월 4일 (2024년은 윤년)
-    
-    date.AddDay(365);
-    date.ShowDate();  // 2025년 1월 4일
+    Date day1(2022,1,5);
+    Date day2 = Date(2022,3,8);
+    Date day3;
 
-    date.AddMonth(14);
-    date.ShowDate();  // 2026년 3월 4일
-    
-    date.SetDate(2024, 2, 28);
-    date.AddDay(1);
-    date.ShowDate();  // 2024년 2월 29일 (윤년)
-    
-    date.AddDay(1);
-    date.ShowDate();  // 2024년 3월 1일
-    
-    date.SetDate(2023, 2, 28);
-    date.AddDay(1);
-    date.ShowDate();  // 2023년 3월 1일 (평년)
+    day1.ShowDate();
+    day2.ShowDate();
+    day3.ShowDate();
 
-    date.SetDate(2023, 12, 31);
-    date.AddDay(365);
-    date.ShowDate();  // 2024년 12월 31일
     return 0;
 }
