@@ -6,24 +6,24 @@ class Date{
     int day_;
 
     public:
-    Date(int year, int month, int day){
-        year_=year;
-        month_=month;
-        day_=day;
-    };
-    Date() {
-        year_=2021;
-        month_=10;
-        day_=21;
-    };
-    void SetDate(int year, int month, int day);
-    void AddDay(int inc);
-    void AddMonth(int inc);
-    void AddYear(int inc);
+        Date(int year, int month, int day){
+            year_=year;
+            month_=month;
+            day_=day;
+        };
+        Date() {
+            year_=2021;
+            month_=10;
+            day_=21;
+        };
+        void SetDate(int year, int month, int day);
+        void AddDay(int inc);
+        void AddMonth(int inc);
+        void AddYear(int inc);
 
-    void ShowDate(){
-        std::cout << year_ << "년 " <<  month_ << "월 " << day_ << "일" << std::endl;
-    };
+        void ShowDate(){
+            std::cout << year_ << "년 " <<  month_ << "월 " << day_ << "일" << std::endl;
+        };
 };
 
 bool IsLeapYear(int year) {
@@ -71,7 +71,6 @@ void Date::AddMonth(int inc){
 };
 
 void Date::AddYear(int inc){ year_ += inc; }
-
 
 int main(){
     Date day1(2022,1,5);
