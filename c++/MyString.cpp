@@ -29,6 +29,11 @@ public:
     int find(int find_from, const char *str) const;
     int find(int find_from, char c) const;
     int compare(const MyString &str) const;
+
+    // 연산자 오버로딩
+    bool operator==(MyString& str){
+        return !compare(str);
+    }
 };
 
 MyString::MyString(char c) {
