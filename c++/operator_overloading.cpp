@@ -5,7 +5,15 @@ class String {
     int len ;
     public:
         String(const char* str){
-            len = strlen(str);
+            int n = 0;
+            while(true){
+                if(str[n]=='\0'){
+                    break;
+                }
+                n++;
+            }
+            
+            len = n;
             txt = new char[len];
             for(int i=0; i<len; i++){
                 txt[i] = str[i];
