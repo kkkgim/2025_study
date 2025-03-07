@@ -1,0 +1,16 @@
+# 빌드 및 디버그 관련 파일 무시
+*
+*.o
+*.out
+*.exe
+*.dSYM/
+
+/Users/taerin/Desktop/study/2025_study/alice_git
+/Users/taerin/Desktop/study/2025_study/alice
+/Users/taerin/Desktop/study/2025_study/대용량트래픽처리
+
+# cpp 파일 추척
+# 폴더 및 cpp 파일은 추적
+!*/
+!*.cpp
+!*.txt
