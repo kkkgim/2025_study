@@ -11,9 +11,8 @@ class ArrayAccessor {
 public:
     ArrayAccessor(Array& array, int idx, int d) : arr(array), index(idx), depth(d) {}
 
-    // 🔹 operator[]을 재귀적으로 호출하여 다차원 인덱싱 지원
     ArrayAccessor operator[](int idx);
-    operator int&();  // 마지막 차원에서 int 값 반환
+    operator int&();  // 마지막 차원에서 int& 반환
 };
 
 // 🔹 다차원 배열을 관리하는 클래스
@@ -96,6 +95,8 @@ int main() {
     // 🔹 다차원 인덱싱 지원
     a[1][1][1] = 99;  
     std::cout << "Modified element a[1][1][1]: " << a[1][1][1] << std::endl;
+
+    a.print();
 
     return 0;
 }
