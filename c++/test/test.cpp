@@ -1,39 +1,34 @@
 #include <iostream>
+#include <deque>
+#include <vector>
 using namespace std;
 
-void goo(int n, double d, const char* s)
-{
-    cout << "goo : " << n << " " << d << " " << s << endl;
-}
+int main() {
+    int N;
+    cin >> N;
+    vector<int> type(N);
+    vector<int> data(N);
 
-int hoo(int a) { return -a; }
+    for (int i = 0; i < N; i++) cin >> type[i];
+    for (int i = 0; i < N; i++) cin >> data[i];
 
-int print(int a)
-{
-    cout << a << ", ";
+    deque<int> dq;
+
+    // 큐인 자료구조만 저장
+    for (int i = 0; i < N; i++) {
+        if (type[i] == 0) dq.push_back(data[i]);
+    }
+
+    int M;
+    cin >> M;
+
+    for (int i = 0; i < M; i++) {
+        int x;
+        cin >> x;
+        dq.push_back(x);
+        cout << dq.front() << ' ';
+        dq.pop_front();
+    }
+
     return 0;
-}
-
-template<typename ... Types>
-void foo(Types ... args)
-{
-    int x[] = { args... }; // Pack expansion
-    for (auto n : x)
-        cout << n << endl;
-
-    //print(args); // Error(함수 호출 인자 or list 초기화가 아님)
-    //print(args...); // Error(함수 호출 인자 or list 초기화가 아님)
-    //print(args)...; // Error(함수 호출 인자 or list 초기화가 아님)
-
-    // 배열 이용
-    int ea[] = { 0, (print(args), 0)... };
-
-
-}
-
-int main()
-{
-    foo(1, 2, 3);
-     // Types : int, int, int
-     // args : 1, 2, 3
 }
